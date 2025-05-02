@@ -1,0 +1,1 @@
+def get_ai_response(msg): return 'Resposta da IA: ' + msg
