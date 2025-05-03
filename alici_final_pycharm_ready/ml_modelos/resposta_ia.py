@@ -1,1 +1,0 @@
-def resposta_ia(msg): return 'Resposta simulada para: ' + msg
