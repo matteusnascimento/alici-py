@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    text-align: center;
+    padding: 2rem;
+}
+form {
+    margin: 1rem auto;
+}
+input {
+    padding: 0.5rem;
+    width: 300px;
+}
+button {
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+}
+#resposta {
+    margin-top: 2rem;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
