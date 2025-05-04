@@ -1,7 +1,0 @@
-flask
-requests
-openai
-sentence-transformers
-python-dotenv
-gunicorn
-psycopg2-binary
