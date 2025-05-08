@@ -1,0 +1,11 @@
+alici-py/
+├── app.py
+├── database.py
+├── models.py
+├── mnist_model.h5
+├── .env
+├── static/
+│   └── style.css
+└── templates/
+    ├── index.html
+    └── admin_messages.html
